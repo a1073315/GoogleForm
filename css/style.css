@@ -27,7 +27,7 @@ h1{
 .inputbox label{
     font-weight: 600;
 }
-.inputbox input, select{
+.inputbox input, .inputbox select{
     width: 100%;
     margin-top: 5px;
     padding: 10px 5px;
